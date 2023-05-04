@@ -4,7 +4,7 @@
 #I love Cycling and Coffee 🚲☕
 <br />
 <br />
-#I am a Junior Dotnet Developer at Souther Company ⛽
+#I am a Dotnet Developer at Souther Company ⛽
 
 <img align="left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=BraydonTGS&show_icons=true&theme=radical"/>
 
