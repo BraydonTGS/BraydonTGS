@@ -6,9 +6,6 @@
 <br />
 #I am a Dotnet Developer at Souther Company ⛽
 
-<img align="left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=BraydonTGS&show_icons=true&theme=radical"/>
-
-<img width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraydonTGS&hide_progress=true"/>
 <hr />
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
