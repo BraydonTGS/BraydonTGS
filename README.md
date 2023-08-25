@@ -4,7 +4,7 @@
 #I love Cycling and Coffee 🚲☕
 <br />
 <br />
-#I am a Dotnet Developer at Souther Company ⛽
+#I am a Dotnet Developer at Southern Company ⛽
 
 <hr />
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
