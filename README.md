@@ -5,6 +5,9 @@
 <br />
 <br />
 #I am a Dotnet Developer at Southern Company ⛽
+<br />
+<br />
+#XAMARIN * WPF * MAUI * ASP.NET MVC * EF CORE
 
 <hr />
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
