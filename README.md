@@ -7,6 +7,9 @@
 #I am a Dotnet Developer at Southern Company ⛽
 <br />
 <br />
+#Check out my Current Project - FaithfulRemindersWeb
+<br />
+<br />
 #XAMARIN * WPF * MAUI * MVVM * ASP.NET MVC * EF CORE
 
 <hr />
